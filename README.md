@@ -8,7 +8,7 @@ Contributors to this project as teams members are listed here:
 1. Bhagirath Bhardwaj
 2. Jinisha Kande
 3. Sonal Kaur
-4. Paulin Jesintha
+4. Paulin Jesintha Mariadoss
 5. Sohil Jain
 7. Renata Halim
 
